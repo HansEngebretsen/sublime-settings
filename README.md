@@ -5,5 +5,5 @@ A grouping of user settings I find useful in making sublime text more understand
 
 ## Usage
 
-Either add or replace lines in your user settings file.
+Either add or replace lines in your user settings file. Sublime Text > Preferences > Settings - User
 
